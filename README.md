@@ -2,7 +2,6 @@
 ### [YBOT](https://y-bot.net/)でDiscordのBOT作ったりしてます。
 ![](https://skillicons.dev/icons?i=python,javascript,go)
 #### Pythonが一番得意です！！それ以外は触ったことがある程度です。
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact&count_private=true)
 <!--
 **yopiru/yopiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
