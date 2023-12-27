@@ -2,6 +2,7 @@
 ### [YBOT](https://y-bot.net/)でDiscordのBOT作ったりしてます。
 ![](https://skillicons.dev/icons?i=python,javascript,go)
 #### Pythonが一番得意です！！それ以外は触ったことがある程度です。
+#### テキストエディタはVisual Studio Codeを使ってます。
 <!--
 **yopiru/yopiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
