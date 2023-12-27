@@ -1,6 +1,6 @@
 ### こんにちは
 ### [YBOT](https://y-bot.net/)でDiscordのBOT作ったりしてます。
-Pythonが一番得意です！！それ以外は触ったことがある程度です。
+#### Pythonが一番得意です！！それ以外は触ったことがある程度です。
 ![](https://skillicons.dev/icons?i=python,javascript,go)
 <!--
 **yopiru/yopiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
