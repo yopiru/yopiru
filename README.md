@@ -1,4 +1,5 @@
-### Hi there 👋
+### こんにちは
+### [YBOT](https://y-bot.net/)でDiscordのBOT作ったりしてます。
 
 <!--
 **yopiru/yopiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
